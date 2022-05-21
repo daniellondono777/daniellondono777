@@ -4,7 +4,7 @@
 * 📈 Currently working as a Data Science Intern, at a Fintech!
 * 🔮 My senior thesis project: <em>A Machine Learning Approach For Forecasting Financial Bubbles</em>
 * 👨‍💻I love coding, data engineering, web programming and security!
-* 📚 I like reading and working out!
+* 📚 I like reading, working out, and adventures!
 * 🤓 Don't hesitate to reach me!
   
   
