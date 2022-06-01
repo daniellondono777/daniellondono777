@@ -3,9 +3,9 @@
 * 🤠 My name is Daniel! I'm a software engineer! 
 * 📈 Currently working as a Data Science Intern, at a Fintech!
 * 🔮 My senior thesis project: <em>A Machine Learning Approach For Forecasting Financial Bubbles</em>
-* 👨‍💻I love coding, data engineering, web programming and security!
-* 📚 I like reading, working out, and adventures!
-* 🤓 Don't hesitate to reach me!
+* 👨‍💻 Interests: Machine Learning | Data Engineering | Backend | Cybersecurity
+* 📚 I like chess, working out, and adventures!
+* 💬 Don't hesitate to reach me!
   
   
 
