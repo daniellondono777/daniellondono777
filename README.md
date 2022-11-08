@@ -4,7 +4,7 @@
 * 📈 Currently finishing my undergrad in Computer Engineering
 * 🔮 My senior thesis project: <em>A Machine Learning Approach For Forecasting Financial Bubbles</em>
 * 👨‍💻 Interests: Machine Learning | Data Engineering | Backend | Cybersecurity
-* 📚 I like chess, working out, and adventures!
+* 📚 I like chess, working out, and finance!
 * 💬 Don't hesitate to reach me!
   
   
