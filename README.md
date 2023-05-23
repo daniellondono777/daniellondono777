@@ -1,10 +1,10 @@
 !["Software Engineer, boxing enthusiast, dreamer"](https://github.com/daniellondono777/daniellondono777/blob/main/header.png)
 
-* 🤠 My name is Daniel! I'm a software engineer! 
-* 📈 Currently finishing my undergrad in Computer Engineering
-* 🔮 My senior thesis project: <em>A Machine Learning Approach For Forecasting Financial Bubbles</em>
-* 👨‍💻 Interests: Machine Learning | Data Engineering | Backend | Cybersecurity
-* 📚 I like chess, working out, and finance!
+* 🤠 Hi! My name is Daniel!  
+* 🎓 B.Eng in Systems and Computer Engineering, University of Los Andes (Bogotá, Colombia)
+* 💻 Currently working as Semi Senior Developer @RessolveAI
+* 💡 Interests: Machine Learning | Data Engineering | Backend | Cybersecurity
+* 📚 I enjoy chess, working out, and finance!
 * 💬 Don't hesitate to reach me!
   
   
