@@ -2,8 +2,8 @@
 
 * 🤠 Hi! My name is Daniel!  
 * 🎓 B.Eng in Systems and Computer Engineering, University of Los Andes (Bogotá, Colombia)
-* 💻 Currently working as Semi Senior Developer @IcebergData LLC
-* 💡 Interests: Machine Learning | Data Engineering | Backend | Cybersecurity
+* 💻 Currently working as an AI Developer @IcebergData LLC
+* 💡 Interests: Data Engineering | Backend | Cybersecurity
 * 📚 I enjoy chess, working out, and finance!
 * 💬 Don't hesitate to reach me!
   
