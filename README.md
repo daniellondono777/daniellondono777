@@ -2,8 +2,7 @@
 
 * 🤠 Hi! My name is Daniel!  
 * 🎓 B.Eng in Systems and Computer Engineering, University of Los Andes (Bogotá, Colombia)
-* 💻 Currently working as an AI Developer @IcebergData LLC
-* 💡 Interests: Data Engineering | Backend | Cybersecurity
+* 💻 Currently finishing a Postgraduate degree in Cybersecurity at George Brown College (Toronto, Canada)
 * 📚 I enjoy chess, working out, and finance!
 * 💬 Don't hesitate to reach me!
   
